@@ -48,6 +48,9 @@ Each classifier is tested for accuracy and runtime performance. Visual results i
 5. **Train & Evaluate** models
 6. **Output** accuracy, runtime, and confusion matrices
 
+## CIFAR-10-DATA.MAT Removal due to size limitation
+- cifar-10-data.mat exceeded github's size limit of 100MB, which is why is has been removed from the initial commit
+- Should be pushed as soon as possible, omititon is due to the desire to push the project to git as soon as possible
 ---
 
 
